@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>毒蛇分享</title>
+  <title>宅缘猴</title>
   
-  <subtitle>DuShe</subtitle>
+  <subtitle>ZhaiYuanHou</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="yhy541/"/>
@@ -10,7 +10,7 @@
   <id>yhy541/</id>
   
   <author>
-    <name>金蛇郎君</name>
+    <name>猴哥</name>
     
   </author>
   
